@@ -60,7 +60,7 @@ Currently working on real-world platforms and exploring machine learning.
 - Built with MERN stack  
 - Features authentication, profiles, and networking  
 
-🔗 https://github.com/YOUR_USERNAME/project1
+🔗 https://github.com/Masood0319/project1
 
 ---
 
@@ -68,7 +68,7 @@ Currently working on real-world platforms and exploring machine learning.
 - Deep learning-based skin cancer detection system  
 - Uses CNN models for classification & segmentation  
 
-🔗 https://github.com/YOUR_USERNAME/project2
+🔗 https://github.com/Masood0319/project2
 
 ---
 
@@ -76,22 +76,22 @@ Currently working on real-world platforms and exploring machine learning.
 - Complete MERN application with authentication  
 - REST APIs + responsive frontend  
 
-🔗 https://github.com/YOUR_USERNAME/project3
+🔗 https://github.com/Masood0319/project3
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Masood0319&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masood0319&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masood0319&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -99,7 +99,7 @@ Currently working on real-world platforms and exploring machine learning.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Masood0319/Masood0319/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -107,11 +107,11 @@ Currently working on real-world platforms and exploring machine learning.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_PROFILE">
+  <a href="www.linkedin.com/in/tariq-masood-00a075338">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Masood0319">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
@@ -121,7 +121,7 @@ Currently working on real-world platforms and exploring machine learning.
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=Masood0319&color=blueviolet" />
 </p>
 
 ---
