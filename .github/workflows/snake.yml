@@ -6,34 +6,39 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ VERY IMPORTANT (fixes git 128)
+  contents: write   # ✅ REQUIRED
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # ✅ Fix Node warning
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake animation
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: Masood0319
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs: dist/snake.svg
 
-      - name: Push to output branch
+      - name: Deploy snake
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          mkdir temp
+          cd temp
+
+          git init
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/YOUR_USERNAME/YOUR_USERNAME.git
           
-          git clone --depth=1 https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/YOUR_USERNAME/YOUR_USERNAME.git output
-          
-          cp -r dist/* output/
-          
-          cd output
+          git checkout -b output
+          cp ../dist/snake.svg .
+
           git add .
-          git commit -m "update snake animation" || echo "no changes"
-          git push origin HEAD:output
+          git commit -m "update snake" || echo "no changes"
+          git push origin output --force
