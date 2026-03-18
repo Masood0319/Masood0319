@@ -100,7 +100,7 @@ Currently working on real-world platforms and exploring machine learning.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Masood0319/Masood0319/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Masood0319/Masood0319/output/dist/snake.svg" />
 </p>
 
 ---
