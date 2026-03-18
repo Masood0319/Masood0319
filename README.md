@@ -1,95 +1,96 @@
-<!-- 🔥 HERO SECTION -->
+<!-- 🌌 FUTURISTIC HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a2a6c,100:b21f1f&height=220&section=header&text=Tariq%20Masood&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Tariq%20Masood&fontSize=48&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=MERN+Stack+Engineer;Building+Startup-Grade+Platforms;AI+%2B+Backend+Focused;Open+to+Collaboration" />
-</p>
-
----
-
-<!-- 🔷 DIVIDER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-<!-- 🧠 MINIMAL ABOUT (VISUAL STYLE) -->
-<p align="center">
-  🚀 <b>Builder</b> &nbsp; • &nbsp;
-  💻 <b>MERN Stack</b> &nbsp; • &nbsp;
-  🤖 <b>AI Learner</b> &nbsp; • &nbsp;
-  ⚡ <b>Fast Execution</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=⚡+MERN+STACK+ENGINEER;🚀+BUILDING+STARTUP+PLATFORMS;🤖+AI+%2B+BACKEND+FOCUSED;🔥+CREATING+REAL+IMPACT" />
 </p>
 
 ---
 
-<!-- 🔷 DIVIDER -->
+<!-- 🌈 NEON DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
 </p>
 
-<!-- 🛠️ TECH STACK (PREMIUM GRID) -->
-<h3 align="center">⚡ Tech Stack</h3>
+<!-- 🧠 DIGITAL IDENTITY -->
+<h3 align="center">⚡ DIGITAL IDENTITY</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,github,postman,vscode&perline=5" />
+  🚀 Builder &nbsp;&nbsp;|&nbsp;&nbsp;
+  💻 MERN &nbsp;&nbsp;|&nbsp;&nbsp;
+  🤖 AI &nbsp;&nbsp;|&nbsp;&nbsp;
+  ⚡ Execution
 </p>
 
 ---
 
-<!-- 🔷 DIVIDER -->
+<!-- 🌈 DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=2"/>
 </p>
 
-<!-- 🚀 PROJECTS (CARD STYLE) -->
-<h3 align="center">🚀 Projects</h3>
+<!-- 🛠️ TECH GRID -->
+<h3 align="center">⚙️ TECH MATRIX</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,git,github,postman,vscode&theme=dark&perline=5" />
+</p>
+
+---
+
+<!-- 🌈 DIVIDER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2"/>
+</p>
+
+<!-- 🚀 PROJECT GRID -->
+<h3 align="center">🚀 PROJECT SYSTEMS</h3>
 
 <p align="center">
   <a href="https://github.com/Masood0319/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masood0319&repo=project1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masood0319&repo=project1&theme=tokyonight&hide_border=true" />
   </a>
-  
   <a href="https://github.com/Masood0319/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masood0319&repo=project2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masood0319&repo=project2&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Masood0319/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masood0319&repo=project3&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Masood0319&repo=project3&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 ---
 
-<!-- 🔷 DIVIDER -->
+<!-- 🌈 DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=2"/>
 </p>
 
-<!-- 📊 STATS (CLEAN GRID) -->
-<h3 align="center">📊 Stats</h3>
+<!-- 📊 ANALYTICS -->
+<h3 align="center">📊 ANALYTICS</h3>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Masood0319&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Masood0319&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Masood0319&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=8A2BE2" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Masood0319&theme=tokyonight&hide_border=true&ring=00F7FF&fire=8A2BE2" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masood0319&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masood0319&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 </p>
 
 ---
 
-<!-- 🔷 DIVIDER -->
+<!-- 🌈 DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=2"/>
 </p>
 
-<!-- 🐍 SNAKE -->
-<h3 align="center">🐍 Activity</h3>
+<!-- 🐍 CYBER SNAKE -->
+<h3 align="center">🐍 ACTIVITY MATRIX</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Masood0319/Masood0319/output/dist/snake.svg" />
@@ -97,38 +98,33 @@
 
 ---
 
-<!-- 🔷 DIVIDER -->
+<!-- 🌈 DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=2"/>
 </p>
 
-<!-- 🌐 CONNECT -->
-<h3 align="center">🌐 Connect</h3>
+<!-- 🌐 CONTACT -->
+<h3 align="center">🌐 CONNECT PROTOCOL</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tariq-masood-00a075338">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="https://github.com/Masood0319">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<!-- 🔷 DIVIDER -->
+<!-- 👁️ VISITOR COUNTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-</p>
-
-<!-- 👀 VISITS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Masood0319&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Masood0319&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ⚡ MINIMAL FOOTER -->
+<!-- ⚡ FUTURISTIC FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:0f0c29&height=120&section=footer"/>
 </p>
