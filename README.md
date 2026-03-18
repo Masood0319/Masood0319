@@ -64,17 +64,18 @@ Currently working on real-world platforms and exploring machine learning.
 
 ---
 
-### 🧠 AI Melanoma Detection System
-- Deep learning-based skin cancer detection system  
-- Uses CNN models for classification & segmentation  
+### 🧠 Smart Interview System
+- Under Development 
+- Role based and resume based Interviews
+- Using MERN Stack in frontend and FastAPI in backend 
 
 🔗 https://github.com/Masood0319/project2
 
 ---
 
-### 🌐 Full Stack Web App
-- Complete MERN application with authentication  
-- REST APIs + responsive frontend  
+### 🌐 UET Mardan Website
+- Complete MERN application with modern design and animations 
+- Responsive frontend  
 
 🔗 https://github.com/Masood0319/project3
 
